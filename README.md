@@ -80,7 +80,12 @@ As principais etapas foram:
 
 Para todos os modelos foram gerados gráficos de **feature importance**. As variáveis mais relevantes incluem:
 
-- `ext_score_1`, `ext_score_2`, `amt_active_loan`, `income`, `score_checks`, `days_diff`.
+- occupation_type
+- flag_document_A
+- start_hour
+- score_weekofyear
+- credit_card_initial_line
+- payment
 
 ---
 
