@@ -1,5 +1,6 @@
 # Previsão de Inadimplência com Machine Learning
-![freepik_assistant_1751990644417](https://github.com/user-attachments/assets/f8cc6b51-5c8d-4923-ad26-1022d1e9b96b)
+![image](https://github.com/user-attachments/assets/9517bf50-02e0-4870-92c9-526318479e13)
+
 
 
 Este projeto tem como objetivo prever a inadimplência de clientes no momento da solicitação de um cartão de crédito, utilizando técnicas de Machine Learning aplicadas a dados cadastrais, comportamentais e socioeconômicos. A solução visa auxiliar uma fintech na tomada de decisões mais seguras e eficazes na concessão de crédito.
