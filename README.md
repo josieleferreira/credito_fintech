@@ -1,5 +1,6 @@
 # Previsão de Inadimplência com Machine Learning
-![image](https://github.com/user-attachments/assets/9517bf50-02e0-4870-92c9-526318479e13)
+![2112 i607 022 S m012 c12 fintech isometric composition](https://github.com/user-attachments/assets/804e344b-21b8-4682-9558-a0c0d947de1f)
+
 
 
 
