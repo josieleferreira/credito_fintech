@@ -136,7 +136,7 @@ credito_fintech/
 ## ✅ Conclusões
 
 - O modelo Random Forest apresentou desempenho quase perfeito, mas precisa ser testado em produção para evitar overfitting.
-- O XGBoost combinou alta performance e boa generalização, sendo uma excelente alternativa de produção.
+- O XGBoost combinou alta performance e boa generalização, sendo a excelente alternativa de produção.
 - O modelo de Regressão Logística pode servir como benchmark por sua interpretabilidade e desempenho sólido.
 - Métricas como AUC, análise da distribuição dos scores e análise de erro foram fundamentais para avaliar os modelos de forma profunda.
 
