@@ -114,19 +114,20 @@ A estrutura de diretórios do projeto foi organizada da seguinte forma:
 
 
 ```bash
-credit_fintech/
-├── data/                    # Dados brutos e processados
+credito_fintech/
+├── data/
 │   ├── raw/
 │   └── processed/
-├── notebooks/               # Notebooks com análises e modelagens
-├── models/                  # Modelos treinados (.pkl)
-├── reports/                 # Relatórios e figuras
+├── notebooks/
+├── models/
+├── reports/
 │   └── figures/
-├── src/                     # Código-fonte do projeto
-│   ├── preprocessing.py     # Pipeline de pré-processamento
-│   └── train_models.py      # Treinamento dos modelos
-├── requirements.txt         # Dependências do projeto
-├── README.md                # Documentação do projeto
+├── src/
+│   ├── preprocessing.py
+│   ├── experiments.py|
+│   └── train_models.py
+├── requirements.txt
+├── README.md
 └── .gitignore
 ```
 
