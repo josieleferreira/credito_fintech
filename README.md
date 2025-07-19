@@ -8,14 +8,14 @@ Este projeto tem como objetivo prever a inadimplência de clientes no momento da
 
 
 
-## 📌 Contexto
+## Contexto
 
 A análise de crédito é essencial para fintechs que atuam em ambientes altamente competitivos e orientados por dados. Com o avanço da ciência de dados, modelos preditivos vêm sendo usados para reduzir perdas com inadimplência e promover inclusão financeira, possibilitando aprovações mais justas e seguras.
 
 
 
 
-## 🎯 Objetivo do Projeto
+## Objetivo do Projeto
 
 Identificar, com base em dados históricos e cadastrais, quais clientes têm maior probabilidade de não pagarem suas dívidas, permitindo que a fintech:
 
@@ -26,7 +26,7 @@ Identificar, com base em dados históricos e cadastrais, quais clientes têm mai
 
 
 
-## 🧩 Bases de Dados Utilizadas
+## Bases de Dados Utilizadas
 
 Foram utilizados três datasets principais, posteriormente unificados no dataframe `df_unique`:
 
@@ -37,7 +37,7 @@ Foram utilizados três datasets principais, posteriormente unificados no datafra
 
 
 
-## 🛠️ Pré-Processamento
+## Pré-Processamento
 
 As principais etapas foram:
 
@@ -55,7 +55,7 @@ As principais etapas foram:
 
 
 
-## ⚙️ Modelos Aplicados
+## Modelos Aplicados
 
 ### 🔹 Baseline
 - Alto desempenho nas métricas convencionais (acurácia: 99%), mas AUC de apenas **0.489**.
@@ -82,7 +82,7 @@ As principais etapas foram:
 
 
 
-## 📊 Importância das Variáveis
+## Importância das Variáveis
 
 Para todos os modelos foram gerados gráficos de **feature importance**. As variáveis mais relevantes incluem:
 
@@ -96,7 +96,7 @@ Para todos os modelos foram gerados gráficos de **feature importance**. As vari
 
 
 
-## 📈 Avaliação de Performance
+## Avaliação de Performance
 
 | Modelo            | Acurácia | Recall (Classe 1) | F1-score (Classe 1) | AUC    |
 |-------------------|----------|-------------------|----------------------|--------|
@@ -108,7 +108,7 @@ Para todos os modelos foram gerados gráficos de **feature importance**. As vari
 
 
 
-## 📁 Estrutura do Projeto
+## Estrutura do Projeto
 
 A estrutura de diretórios do projeto foi organizada da seguinte forma:
 
@@ -133,7 +133,7 @@ credito_fintech/
 
 
 
-## ✅ Conclusões
+## Conclusões
 
 - O modelo Random Forest apresentou desempenho quase perfeito, mas precisa ser testado em produção para evitar overfitting.
 - O XGBoost combinou alta performance e boa generalização, sendo a excelente alternativa de produção.
@@ -143,7 +143,7 @@ credito_fintech/
 
 
 
-## 📈 Próximos Passos
+## Próximos Passos
 
 - Monitoramento do modelo em produção com foco em **drift detection**
 - Calibração de probabilidades
@@ -153,7 +153,7 @@ credito_fintech/
 
 
 
-## 🧪 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - Python 3.11  
 - Pandas, NumPy  
@@ -166,7 +166,7 @@ credito_fintech/
 
 
 
-## 🤝 Contribuições
+## Contribuições
 
 Contribuições são bem-vindas!  
 Abra uma *issue* ou envie um *pull request* com sugestões ou melhorias.
